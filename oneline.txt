@@ -1,0 +1,17 @@
+=========
+OUTLINE
+=========
+
+chapter 1
+
+- This is a bullet point
+- Bullet points are useful for making lists
+- They can also help organize information
+- You can use different symbols for bullets
+
+chapter 2
+
+- This is a bullet point
+- Bullet points are useful for making lists
+- They can also help organize information
+- You can use different symbols for bullets
